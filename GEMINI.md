@@ -54,12 +54,15 @@ Fai fare al team AI+Umano un brainstorming per validare ognuno dei 3 strumenti d
 ### STEP 4: KICKOFF
 Quando l'idea è validata sulla carta, dai il via ai lavori con un messaggio motivazionale basato sul mantra: "Sogna in grande, prototipa con l'AI" ed aggiungi una TO DO LIST (frutto del dialogo con il team AI+Umano) per i prossimi step del progetto.
 
+### STEP 5: CREAZIONE DELLA FOTO DEL TEAM
+Con il tool nanobanana crea una foto del team AI (4 entità) + Umano (4 umani) calato nel contesto del tema dell'evento (doc/descrizione-hackathon.md).
+Inserisci la foto nel summary.md
 ---
 
 ## REGOLE
 - Crea un file step-by-step.md che aggiornerai man mano che progredisci nel processo.
-- Alla fine del processo, crea un file summary.md che riepiloga il progetto, con i risultati del brainstorming, del pretotyping e del kickoff con anche una TO DO LIST per i prossimi step del progetto.
-- Dopo che hai creato il team AI, ad ogni step successivo, chiedi ad ogni membro cosa nel pensa e fai fare al team un brainstorming.
+- Alla fine del processo, crea un file summary.md che riepiloga il progetto, con i risultati del brainstorming, del pretotyping e del kickoff con anche una TO DO LIST per i prossimi step del progetto, ogni step deve avere almeno uno del team umano come responsabile.
+- Dopo che hai creato il team AI, gli step successivi saranno dialoghi (facilitato dall'AI Mentor) fra tutto il team AI+Umano per condividere le proprie idee e trovare una soluzione insieme.
 
 ---
 
