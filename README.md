@@ -1,5 +1,11 @@
 # 🎄 AsperAstra Christmas Hackathon 2025 - AI Mentor Template
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Gemini CLI](https://img.shields.io/badge/Powered%20by-Gemini%20CLI-4285F4?logo=google&logoColor=white)](https://github.com/google-gemini/gemini-cli)
+[![Made with AI](https://img.shields.io/badge/Made%20with-AI%20%E2%9D%A4%EF%B8%8F-ff69b4)](https://evoseed.io)
+[![Hackathon](https://img.shields.io/badge/Event-Christmas%20Hackathon%202025-red?logo=christmas-tree)](https://www.eventbrite.it/e/christmas-hackathon-tickets-1963193523677)
+[![Location](https://img.shields.io/badge/Location-Trieste%20🇮🇹-green)](https://asperastra.com)
+
 Template per hackathon con **AI Mentor** integrato basato su Gemini CLI. Guida il tuo team dalla formazione dell'idea alla validazione con metodologia Pretotyping.
 
 🔗 **Repository:** https://github.com/tommasinigiovanni/asperastra-christman-hackathon-2025-team
@@ -152,10 +158,34 @@ Durante la sessione, l'AI Mentor creerà automaticamente:
 
 ---
 
+## 👨‍💻 Autore
+
+<a href="https://www.linkedin.com/in/giovannitommasini/">
+  <img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Tommasini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.giovannitommasini.it/">
+  <img src="https://img.shields.io/badge/Website-giovannitommasini.it-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+<a href="https://evoseed.io">
+  <img src="https://img.shields.io/badge/Company-Evoseed.io-00C853?style=for-the-badge&logo=seedling&logoColor=white" alt="Evoseed">
+</a>
+<a href="https://instagram.com/tommasini.giovanni">
+  <img src="https://img.shields.io/badge/Instagram-giovannitommasini-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://t.me/tommasinigiovanni">
+  <img src="https://img.shields.io/badge/Telegram-giovannitommasini-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+**Giovanni Tommasini** - Telco & AI DevOps Expert | Mentor & Strategy
+
+> *"Enthusiastic Seeker"* 🔍 - Ottimizzazione processi per MSP e System Integrator attraverso automazione e AI.
+
+---
+
 ## 📄 Licenza
 
 MIT - Usa, modifica e condividi liberamente!
 
 ---
 
-Made with ❤️ per il Christmas Hackathon AsperAstra 2025
+Made with ❤️ by [Giovanni Tommasini](https://linkedin.com/in/giovannitommasini) per il Christmas Hackathon AsperAstra 2025
